@@ -1,15 +1,15 @@
 /* styles.css */
-.buttons{
+.button1, .button2{
     font-size: 28px;
     font-family: Helvetica,'Times New Roman',serif;
 }
 
-#button1{
+.button1{
     color:white;
     background-color: black;
 }
 
-#button2{
+.button2{
     color:black;
     background-color: yellow;
 }
